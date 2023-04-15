@@ -12,7 +12,7 @@
     "@truffle/hdwallet-provider": "^1.2.1",
     "dotenv": "^8.2.0",
     "eth-ens-namehash": "^2.0.8",
-    "eth-gas-reporter": "^0.1.2",
+    "eth-gas-reporter": "^0.2.25",
     "openzeppelin-solidity": "3.3.0",
     "solium": "^1.2.5",
     "truffle": "^5.1.63",
